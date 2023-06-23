@@ -24,7 +24,7 @@ const Profiles = () => {
           <SiGeeksforgeeks className="profile__option-icon" />
           {/* <h5>stepheneliazer18</h5> */}
           <h4>GeeksForGeeks</h4>
-          <h5 className="light-grey">150+ Score</h5>
+          <h5 className="light-grey">1300+ Score</h5>
           <a
             href="https://auth.geeksforgeeks.org/user/manishk4514"
             target="_blank"
@@ -36,7 +36,7 @@ const Profiles = () => {
           <SiCodechef className="profile__option-icon" />
           {/* <h5>stephen18</h5> */}
           <h4>Codechef</h4>
-          <h5 className="light-grey">1060 Score</h5>
+          <h5 className="light-grey">1494 Ratings</h5>
           <a href="https://www.codechef.com/users/manishk4514" target="_blank">
             View Profile
           </a>
