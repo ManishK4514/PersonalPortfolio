@@ -15,7 +15,7 @@ const Profiles = () => {
           <SiLeetcode className="profile__option-icon" />
           {/* <h5>stepheneliazer18</h5> */}
           <h4>Leetcode</h4>
-          <h5 className="light-grey">500+ Problems</h5>
+          <h5 className="light-grey">700+ Problems</h5>
           <a href="https://leetcode.com/manishk4514/" target="_blank">
             View Profile
           </a>
@@ -36,7 +36,7 @@ const Profiles = () => {
           <SiCodechef className="profile__option-icon" />
           {/* <h5>stephen18</h5> */}
           <h4>Codechef</h4>
-          <h5 className="light-grey">1494 Ratings</h5>
+          <h5 className="light-grey">1497 Rating</h5>
           <a href="https://www.codechef.com/users/manishk4514" target="_blank">
             View Profile
           </a>

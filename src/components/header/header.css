@@ -52,6 +52,11 @@ header {
   padding: 4rem 3rem 4rem 1.5rem;
 }
 
+.me img {
+  transform: scale(1.1);
+  margin-left: 0.7rem;
+}
+
 /* =====================  SCROLL DOWN  ==================== */
 
 .scroll__down {

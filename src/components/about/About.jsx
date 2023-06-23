@@ -39,8 +39,7 @@ const About = () => {
 
           <p id="para">
             I am looking for an Entry-level position in the field of Software
-            Development. Currently pursuing BSc in Computer Application from
-            Marwari College Ranchi, And I have a good knowledge of Java, C, C++,
+            Development. Currently pursuing Distance MCA from Chandigarh University, And I have a good knowledge of Java, C, C++,
             Data Structures and Algorithms, HTML, CSS, JavaScript and React Js.
             Looking for an Internship opportunity or a Full-time opportunity as
             a Software Developer to follow my passion and that is Solving
