@@ -38,7 +38,7 @@ body {
   background: var(--color-bg);
   color: var(--color-white);
   line-height: 1.7;
-  background-image: url(https://drive.google.com/file/d/1q3KtDv4v4pOBd9Wdp3qAEIRPRIjMzHA8/view?usp=sharing);
+  background-image: url(../src/assests/bg-texture.png);
 }
 
 /* ----------------- GENERAL STYLES ------------------*/
