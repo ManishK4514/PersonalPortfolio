@@ -21,26 +21,26 @@ const About = () => {
             <article className="about__card">
               <FaAward className="about__icon" />
               <h5>Student</h5>
-              <small>MCR Ranchi</small>
+              <small>Chandigarh University</small>
             </article>
 
             <article className="about__card">
               <FaUserGraduate className="about__icon" />
               <h5>course</h5>
-              <small>BCA</small>
+              <small>Distance MCA</small>
             </article>
 
             <article className="about__card">
               <BsFillFileEarmarkCodeFill className="about__icon" />
               <h5>Projects</h5>
-              <small>2 Completed</small>
+              <small>5 Completed</small>
             </article>
           </div>
 
           <p id="para">
-            I am looking for an Entry-level position in the field of Software
-            Development. Currently pursuing Distance MCA from Chandigarh University, And I have a good knowledge of Java, C, C++,
-            Data Structures and Algorithms, HTML, CSS, JavaScript and React Js.
+            I am looking for an Entry-level position in the field of Mern stack Development or Software
+            Development. Currently pursuing Distance MCA from Chandigarh University, And I have a good knowledge of Java, Reactjs, NodeJs, Express Js, MongoDB, C, C++,
+            Data Structures and Algorithms, HTML, CSS and JavaScript.
             Looking for an Internship opportunity or a Full-time opportunity as
             a Software Developer to follow my passion and that is Solving
             Problems.
