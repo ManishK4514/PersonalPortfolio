@@ -5,6 +5,15 @@ import { BsWhatsapp } from "react-icons/bs";
 import { useRef } from "react";
 import emailjs from "emailjs-com";
 
+// toast
+import { ToastContainer, toast } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
+
+// notify-copy-link
+const notifyMessageSent = () => {
+  toast("Message Sent!!!")
+}
+
 const Contact = () => {
   const form = useRef();
 
@@ -21,6 +30,8 @@ const Contact = () => {
       .then(
         (result) => {
           console.log(result.text);
+          // Clear the form fields
+          form.current.reset();
         },
         (error) => {
           console.log(error.text);
@@ -69,11 +80,12 @@ const Contact = () => {
             placeholder="Your Message"
             required
           ></textarea>
-          <button type="submit" className="btn btn-primary">
+          <button type="submit" className="btn btn-primary" onClick={() => {notifyMessageSent();}}>
             Send Message
           </button>
         </form>
       </div>
+      <ToastContainer />
     </section>
   );
 };
